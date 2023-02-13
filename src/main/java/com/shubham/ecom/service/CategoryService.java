@@ -1,4 +1,4 @@
-package com.sheryians.major.service;
+package com.shubham.ecom.service;
 
 import java.util.List;
 import java.util.Optional;
@@ -6,8 +6,8 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.sheryians.major.model.Category;
-import com.sheryians.major.repository.CategoryRepository;
+import com.shubham.ecom.model.Category;
+import com.shubham.ecom.repository.CategoryRepository;
 
 @Service
 public class CategoryService {

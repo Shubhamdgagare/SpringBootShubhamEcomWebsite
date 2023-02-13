@@ -1,4 +1,4 @@
-package com.sheryians.major.service;
+package com.shubham.ecom.service;
 
 import java.util.List;
 import java.util.Optional;
@@ -6,8 +6,8 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.sheryians.major.model.Product;
-import com.sheryians.major.repository.ProductRepository;
+import com.shubham.ecom.model.Product;
+import com.shubham.ecom.repository.ProductRepository;
 
 @Service
 public class ProductService {
@@ -32,8 +32,8 @@ public class ProductService {
 	}
 	
 //	Getting all category in add product option and later selecting one for product
-	public List<Product> getAllProductsByCategory(int id){
+	public List<Product> getAllProductsByCategoryId(int id){
 		return productRepository.findAllByCategory_Id(id);
 	}
-	
+	 
 }

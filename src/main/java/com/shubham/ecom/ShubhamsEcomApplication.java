@@ -1,13 +1,13 @@
-package com.sheryians.major;
+package com.shubham.ecom;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MajorApplication {
+public class ShubhamsEcomApplication {
 //for running application
 	public static void main(String[] args) {
-		SpringApplication.run(MajorApplication.class, args);
+		SpringApplication.run(ShubhamsEcomApplication.class, args);
 	}
 
 }

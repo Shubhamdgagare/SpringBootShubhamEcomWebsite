@@ -1,4 +1,4 @@
-package com.sheryians.major.dto;
+package com.shubham.ecom.dto;
 
 import lombok.Data;
 
