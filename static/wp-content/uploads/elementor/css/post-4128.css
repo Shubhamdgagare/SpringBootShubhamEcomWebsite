@@ -1,0 +1,56 @@
+.elementor-kit-4128 {
+  --e-global-color-primary: #6ec1e4;
+  --e-global-color-secondary: #54595f;
+  --e-global-color-text: #7a7a7a;
+  --e-global-color-accent: #61ce70;
+  --e-global-color-51810190: #4054b2;
+  --e-global-color-3c6aaa3: #23a455;
+  --e-global-color-764f7cd0: #000;
+  --e-global-color-1d98e720: #fff;
+  --e-global-color-35e0eb3f: #252525;
+  --e-global-color-2c0ac628: #00c4b4;
+  --e-global-color-3e9d7cb6: #7d7d7d;
+  --e-global-color-2b0dd3ad: #a3ccc9;
+  --e-global-color-7ed80299: #f6f6f6;
+  --e-global-color-7533265a: #f5f5f5;
+  --e-global-color-2d599485: #959595;
+  --e-global-color-1a55a245: #282828;
+  --e-global-color-7b406388: #ebebeb;
+  --e-global-color-4bbd0dc7: #000000;
+  --e-global-color-1739f201: RGBA(37, 37, 37, 0.4);
+  --e-global-typography-primary-font-family: "Roboto";
+  --e-global-typography-primary-font-weight: 600;
+  --e-global-typography-secondary-font-family: "Roboto Slab";
+  --e-global-typography-secondary-font-weight: 400;
+  --e-global-typography-text-font-family: "Roboto";
+  --e-global-typography-text-font-weight: 400;
+  --e-global-typography-accent-font-family: "Roboto";
+  --e-global-typography-accent-font-weight: 500;
+}
+.elementor-section.elementor-section-boxed > .elementor-container {
+  max-width: 1140px;
+}
+.e-container {
+  --container-max-width: 1140px;
+}
+ {
+}
+h1.entry-title {
+  display: var(--page-title-display);
+}
+@media (max-width: 1024px) {
+  .elementor-section.elementor-section-boxed > .elementor-container {
+    max-width: 1024px;
+  }
+  .e-container {
+    --container-max-width: 1024px;
+  }
+}
+@media (max-width: 767px) {
+  .elementor-section.elementor-section-boxed > .elementor-container {
+    max-width: 767px;
+  }
+  .e-container {
+    --container-max-width: 767px;
+  }
+}

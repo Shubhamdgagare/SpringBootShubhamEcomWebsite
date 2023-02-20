@@ -1,0 +1,140 @@
+.elementor-3842
+  .elementor-element.elementor-element-18a7cf8:not(.elementor-motion-effects-element-type-background),
+.elementor-3842
+  .elementor-element.elementor-element-18a7cf8
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-image: url("https://fona.wp1.zootemplate.com/wp-content/uploads/2018/01/bg-home-m.jpg");
+  background-position: bottom right;
+  background-repeat: no-repeat;
+}
+.elementor-3842 .elementor-element.elementor-element-18a7cf8 {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  padding: 20px 15px 20px 15px;
+}
+.elementor-3842
+  .elementor-element.elementor-element-18a7cf8
+  > .elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-3842
+  .elementor-element.elementor-element-a8a88bb
+  > .elementor-element-populated
+  > .elementor-widget-wrap {
+  padding: 0px 15px 0px 15px;
+}
+.elementor-3842
+  .elementor-element.elementor-element-7aa5f79
+  .elementor-heading-title {
+  font-size: 16px;
+  text-transform: uppercase;
+}
+.elementor-3842
+  .elementor-element.elementor-element-c1438b6
+  nav.cafe-site-menu
+  .cafe-wrap-menu
+  ul
+  li
+  a {
+  font-size: 16px;
+}
+.elementor-3842
+  .elementor-element.elementor-element-c1438b6
+  nav.cafe-site-menu
+  .cafe-wrap-menu
+  ul
+  > li
+  a {
+  color: #7d7d7d;
+  padding: 10px 0px 10px 0px;
+}
+.elementor-3842
+  .elementor-element.elementor-element-c1438b6
+  nav.cafe-site-menu
+  .cafe-wrap-menu
+  ul
+  > li:hover
+  > a,
+.elementor-3842
+  .elementor-element.elementor-element-c1438b6
+  nav.cafe-site-menu
+  .cafe-wrap-menu
+  ul
+  > li:hover
+  > span {
+  color: #00c4b4 !important;
+}
+.elementor-3842
+  .elementor-element.elementor-element-c1438b6
+  > .elementor-widget-container {
+  margin: -10px 0px 0px 0px;
+}
+.elementor-3842
+  .elementor-element.elementor-element-73f0a7d
+  > .elementor-element-populated
+  > .elementor-widget-wrap {
+  padding: 0px 15px 0px 15px;
+}
+.elementor-3842
+  .elementor-element.elementor-element-e69d179
+  .elementor-heading-title {
+  font-size: 16px;
+  text-transform: uppercase;
+}
+.elementor-3842
+  .elementor-element.elementor-element-432bada
+  nav.cafe-site-menu
+  .cafe-wrap-menu
+  ul
+  li
+  a {
+  font-size: 16px;
+}
+.elementor-3842
+  .elementor-element.elementor-element-432bada
+  nav.cafe-site-menu
+  .cafe-wrap-menu
+  ul
+  > li
+  a {
+  color: #7d7d7d;
+  padding: 10px 0px 10px 0px;
+}
+.elementor-3842
+  .elementor-element.elementor-element-432bada
+  nav.cafe-site-menu
+  .cafe-wrap-menu
+  ul
+  > li:hover
+  > a,
+.elementor-3842
+  .elementor-element.elementor-element-432bada
+  nav.cafe-site-menu
+  .cafe-wrap-menu
+  ul
+  > li:hover
+  > span {
+  color: #00c4b4 !important;
+}
+.elementor-3842
+  .elementor-element.elementor-element-432bada
+  > .elementor-widget-container {
+  margin: -10px 0px 0px 0px;
+}
+.elementor-3842
+  .elementor-element.elementor-element-3a4a761
+  > .elementor-element-populated
+  > .elementor-widget-wrap {
+  padding: 0px 15px 0px 15px;
+}
+@media (min-width: 768px) {
+  .elementor-3842 .elementor-element.elementor-element-a8a88bb {
+    width: 25%;
+  }
+  .elementor-3842 .elementor-element.elementor-element-73f0a7d {
+    width: 25%;
+  }
+  .elementor-3842 .elementor-element.elementor-element-3a4a761 {
+    width: 49.666%;
+  }
+}
